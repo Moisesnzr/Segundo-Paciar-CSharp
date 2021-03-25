@@ -1,0 +1,16 @@
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\bin\Debug\net5.0\Segundo Parcial Ejercicio 1.exe
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\bin\Debug\net5.0\Segundo Parcial Ejercicio 1.deps.json
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\bin\Debug\net5.0\Segundo Parcial Ejercicio 1.runtimeconfig.json
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\bin\Debug\net5.0\Segundo Parcial Ejercicio 1.runtimeconfig.dev.json
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\bin\Debug\net5.0\Segundo Parcial Ejercicio 1.dll
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\bin\Debug\net5.0\ref\Segundo Parcial Ejercicio 1.dll
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\bin\Debug\net5.0\Segundo Parcial Ejercicio 1.pdb
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\obj\Debug\net5.0\Segundo Parcial Ejercicio 1.csprojAssemblyReference.cache
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\obj\Debug\net5.0\Segundo Parcial Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\obj\Debug\net5.0\Segundo Parcial Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\obj\Debug\net5.0\Segundo Parcial Ejercicio 1.AssemblyInfo.cs
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\obj\Debug\net5.0\Segundo Parcial Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\obj\Debug\net5.0\Segundo Parcial Ejercicio 1.dll
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\obj\Debug\net5.0\ref\Segundo Parcial Ejercicio 1.dll
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\obj\Debug\net5.0\Segundo Parcial Ejercicio 1.pdb
+C:\Users\moise\Documents\Clase Itla\C#\Segundo Parcial Ejercicio 1\obj\Debug\net5.0\Segundo Parcial Ejercicio 1.genruntimeconfig.cache
